@@ -1,6 +1,6 @@
 # Frontend Assignment task
 
-# Live Link of the assignment: https://vercel.com/ibverma/frontend-assignment/2dC2TwR9Hi7pv4978t9c8CELTFYJ
+# Live Link of the assignment: https://frontend-assignment-beta-one.vercel.app/
 
 # Instructions to run locally
 1. Download the zip of this repository
